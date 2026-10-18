@@ -1,0 +1,10 @@
+# Go build outputs
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+coverage.out
+
+# Example created by basics/26_file_write_read
+sample.txt

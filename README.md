@@ -1,6 +1,6 @@
 # Golang Programs
 
-A categorized collection of **original, standalone Go learning examples** inspired by the topic progression in the [GeeksforGeeks 100 Days of Golang guide](https://www.geeksforgeeks.org/blogs/100-days-of-golang/).
+A categorized collection of **original, standalone Go learning examples** 
 
 This repository contains small programs for learning and practice—not full projects. Examples are independently written for this collection; they are not copied from the article.
 
